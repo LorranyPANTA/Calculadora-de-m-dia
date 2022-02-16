@@ -1,0 +1,56 @@
+body {
+    font-family: "Helvetica", sans-serif;
+    min-height: 400px;
+    background-color: #1f2020;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .areainput input {
+    width: 80px;
+    color: #fef1e5;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #8eeef8;
+    border-radius: 90px;
+    text-align: center;
+    outline: 0;
+    margin: 0 10px;
+  }
+  
+  .resultado {
+    margin-top: 20px;
+    font-size: 15px;
+    color: #fef1e5;
+  }
+  
+  .png {
+    width: 100vh;
+  }
+  
+  .page-title {
+    color: #fef1e5;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    padding: 8px;
+    color: #fef1e5;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
